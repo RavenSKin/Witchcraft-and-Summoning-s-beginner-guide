@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5715cd3f526fe13428aaa76fe1de28bd, type: 3}
+  m_Name: Warriowl
+  m_EditorClassIdentifier: 
+  Potion: 0
+  Summon: 1
+  _Name: 6
+  InstanceToSummon: {fileID: 171292668487261928, guid: d3aad3e350708af4597d04aef5f3af19, type: 3}
+  RequiredComposantSummoning:
+  - {fileID: 11400000, guid: e2b04e497efedba40a9f47649dcd83e5, type: 2}
+  - {fileID: 11400000, guid: 4663fc4b876702c4bbe8795d63556942, type: 2}
+  - {fileID: 11400000, guid: cdf5d31028e0e6c49b8a6b42b8d187ff, type: 2}
+  RequiredIngredientColorPotion: 
